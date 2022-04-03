@@ -1,0 +1,2 @@
+# Khan-Family-Tree-Prolog
+The goal of this project is to combine two languages: Pro-log and Python. For that goal, I created two interfaces: a front-end and a back-end interface. I've worked with pro-log on the back end and Python on the front end. This was done to make it easier for the user to perform any of his or her queries without difficulties. I used this approach to address an issue with the "Khan Family's" family tree. The user may easily type the query and obtain information about the relationships between family members.
